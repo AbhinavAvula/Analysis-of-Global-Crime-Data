@@ -34,7 +34,7 @@ We're performing an outer merge on the dataset "Publication Reports," focusing o
 5. We preprocessed the final dataset by filling all NA values with 0 before proceeding with normalization
 Before applying normalization techniques, we prepared the ultimate dataset by replacing all missing (NA) values with 0. This step ensures that all data points are accounted for, creating a foundation for accurate normalization procedures.
 
-6.Applying Min-Max Normalization for Data Standardization
+6. Applying Min-Max Normalization for Data Standardization
 To ensure fair comparisons and accurate analysis, we've normalized the entire dataset using Min-Max normalization. This technique brings all values to a common scale between 0 and 1, eliminating potential biases from differing measurement units. This process enhances the effectiveness of our analyses by allowing us to focus on relative patterns and relationships among variables. With normalized data, we can make more meaningful interpretations and draw unbiased conclusions.
 
 # Data Visualization
